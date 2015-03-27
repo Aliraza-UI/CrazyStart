@@ -13,4 +13,4 @@ For making css consistent, I have added normlize.css in style.css and below that
 The answer is whenever you want. But I would recommmend to use any frontend framework like Twitter Bootstrap or Zurb Foundation if you have more than couple of pages websites. CrazyStart is for most simple projects like your portfolio website, or small landing pages.
 
 ###Want more?
-Dont forget to like and follow me here or on twitter @heyaliraza because I am cooking some more things and will come up very soon. visit theux.io to learn more about my work strategy or go to crazyali.me to know more about me.
+Dont forget to like and follow me here or on twitter [@heyaliraza](http://www.twitter.com/heyaliraza) because I am cooking some more things and will come up very soon. visit [TheUX](theux.io) to learn more about my work strategy or go to [CrazyAli](crazyali.me) to know more about me.
